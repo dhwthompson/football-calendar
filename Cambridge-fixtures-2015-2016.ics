@@ -1,0 +1,458 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-PUBLISHED-TTL:PT12H
+PRODID:-//Cambridge//NONSGML//EN
+X-WR-CALDESC:Calendar feed showing all fixtures for Cambridge
+X-WR-CALNAME:Cambridge fixtures 2015/2016
+BEGIN:VEVENT
+UID:7120160206T150000Z
+DTSTART:20160206T150000Z
+DTEND:20160206T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Dag & Red
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160130T150000Z
+DTSTART:20160130T150000Z
+DTEND:20160130T170000Z
+LOCATION:Matchroom Stadium
+SUMMARY:Leyton O. v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160123T150000Z
+DTSTART:20160123T150000Z
+DTEND:20160123T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Hartlepool
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160116T150000Z
+DTSTART:20160116T150000Z
+DTEND:20160116T170000Z
+LOCATION:Kenilworth Road
+SUMMARY:Luton v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160109T150000Z
+DTSTART:20160109T150000Z
+DTEND:20160109T170000Z
+LOCATION:Checkatrade.com Stadium
+SUMMARY:Crawley v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160102T150000Z
+DTSTART:20160102T150000Z
+DTEND:20160102T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Wimbledon
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151228T150000Z
+DTSTART:20151228T150000Z
+DTEND:20151228T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Barnet
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151226T130000Z
+DTSTART:20151226T130000Z
+DTEND:20151226T150000Z
+LOCATION:The Chigwell Construction Stadium
+SUMMARY:Dag & Red v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151219T150000Z
+DTSTART:20151219T150000Z
+DTEND:20151219T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Mansfield
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151212T150000Z
+DTSTART:20151212T150000Z
+DTEND:20151212T170000Z
+LOCATION:Home Park
+SUMMARY:Plymouth v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151206T140000Z
+DTSTART:20151206T140000Z
+DTEND:20151206T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Doncaster
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151128T150000Z
+DTSTART:20151128T150000Z
+DTEND:20151128T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Notts Co.
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151124T194500Z
+DTSTART:20151124T194500Z
+DTEND:20151124T214500Z
+LOCATION:Globe Arena
+SUMMARY:Morecambe v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151121T150000Z
+DTSTART:20151121T150000Z
+DTEND:20151121T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Accrington
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151114T150000Z
+DTSTART:20151114T150000Z
+DTEND:20151114T170000Z
+LOCATION:The Kassam Stadium
+SUMMARY:Oxford Utd v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151107T150000Z
+DTSTART:20151107T150000Z
+DTEND:20151107T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Basingstoke
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151030T194500Z
+DTSTART:20151030T194500Z
+DTEND:20151030T214500Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Bristol R
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151024T140000Z
+DTSTART:20151024T140000Z
+DTEND:20151024T160000Z
+LOCATION:Huish Park
+SUMMARY:Yeovil v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151021T184500Z
+DTSTART:20151021T184500Z
+DTEND:20151021T204500Z
+LOCATION:St James Park
+SUMMARY:Exeter v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151017T140000Z
+DTSTART:20151017T140000Z
+DTEND:20151017T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v NORTHAMPTN
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151010T140000Z
+DTSTART:20151010T140000Z
+DTEND:20151010T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Portsmouth
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120151003T140000Z
+DTSTART:20151003T140000Z
+DTEND:20151003T160000Z
+LOCATION:Bootham Crescent
+SUMMARY:York v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150929T184500Z
+DTSTART:20150929T184500Z
+DTEND:20150929T204500Z
+LOCATION:Adams Park
+SUMMARY:Wycombe v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150926T140000Z
+DTSTART:20150926T140000Z
+DTEND:20150926T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Stevenage
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150919T140000Z
+DTSTART:20150919T140000Z
+DTEND:20150919T160000Z
+LOCATION:Victoria Park
+SUMMARY:Hartlepool v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150912T140000Z
+DTSTART:20150912T140000Z
+DTEND:20150912T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Leyton O.
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150905T140000Z
+DTSTART:20150905T140000Z
+DTEND:20150905T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Luton
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150901T184500Z
+DTSTART:20150901T184500Z
+DTEND:20150901T204500Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Dag & Red
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150829T140000Z
+DTSTART:20150829T140000Z
+DTEND:20150829T160000Z
+LOCATION:Hive Stadium
+SUMMARY:Barnet v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150822T140000Z
+DTSTART:20150822T140000Z
+DTEND:20150822T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Crawley
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150818T184500Z
+DTSTART:20150818T184500Z
+DTEND:20150818T204500Z
+LOCATION:The Cherry Red Records Stadium
+SUMMARY:Wimbledon v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150815T140000Z
+DTSTART:20150815T140000Z
+DTEND:20150815T160000Z
+LOCATION:Brunton Park
+SUMMARY:Carlisle v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150811T184500Z
+DTSTART:20150811T184500Z
+DTEND:20150811T204500Z
+LOCATION:AESSEAL New York Stadium
+SUMMARY:Rotherham v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120150808T140000Z
+DTSTART:20150808T140000Z
+DTEND:20150808T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Newport
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160213T150000Z
+DTSTART:20160213T150000Z
+DTEND:20160213T170000Z
+LOCATION:The Lamex Stadium
+SUMMARY:Stevenage v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160220T150000Z
+DTSTART:20160220T150000Z
+DTEND:20160220T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v York
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160227T150000Z
+DTSTART:20160227T150000Z
+DTEND:20160227T170000Z
+LOCATION:Fratton Park
+SUMMARY:Portsmouth v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160301T194500Z
+DTSTART:20160301T194500Z
+DTEND:20160301T214500Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Wycombe
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160305T150000Z
+DTSTART:20160305T150000Z
+DTEND:20160305T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Exeter
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160312T150000Z
+DTSTART:20160312T150000Z
+DTEND:20160312T170000Z
+LOCATION:Sixfields Stadium
+SUMMARY:NORTHAMPTN v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160319T150000Z
+DTSTART:20160319T150000Z
+DTEND:20160319T170000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Yeovil
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160325T150000Z
+DTSTART:20160325T150000Z
+DTEND:20160325T170000Z
+LOCATION:The Memorial Stadium
+SUMMARY:Bristol R v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160328T140000Z
+DTSTART:20160328T140000Z
+DTEND:20160328T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Oxford Utd
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160402T140000Z
+DTSTART:20160402T140000Z
+DTEND:20160402T160000Z
+LOCATION:Store First Stadium
+SUMMARY:Accrington v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160409T140000Z
+DTSTART:20160409T140000Z
+DTEND:20160409T160000Z
+LOCATION:Rodney Parade
+SUMMARY:Newport v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160416T140000Z
+DTSTART:20160416T140000Z
+DTEND:20160416T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Carlisle
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160419T184500Z
+DTSTART:20160419T184500Z
+DTEND:20160419T204500Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Morecambe
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160423T140000Z
+DTSTART:20160423T140000Z
+DTEND:20160423T160000Z
+LOCATION:Meadow Lane
+SUMMARY:Notts Co. v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160430T140000Z
+DTSTART:20160430T140000Z
+DTEND:20160430T160000Z
+LOCATION:Abbey Stadium
+SUMMARY:Cambridge v Plymouth
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:7120160507T140000Z
+DTSTART:20160507T140000Z
+DTEND:20160507T160000Z
+LOCATION:One Call Stadium
+SUMMARY:Mansfield v Cambridge
+X-ALT-DESC;FMTTYPE=text/html:United PlayerHD:<a href="http://www.player.cambridge-united.co.uk/">http://www.player.cambridge-united.co.uk/</a><br/>shop:<a href="https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop">https://venuetoolbox.com/cambridgeunited/ASP/bookTickets.asp?dept=Shop</a><br/>Buy Tickets:<a href="https://venuetoolbox.com/cambridgeunited/">https://venuetoolbox.com/cambridgeunited/</a><br/>Facebook:<a href="http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl">http://www.facebook.com/pages/Cambridge-United-Football-Club/432668273515625?ref=hl</a><br/>Twitter:<a href="http://www.twitter.com/CambridgeUtdFC">http://www.twitter.com/CambridgeUtdFC</a><br/>
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
