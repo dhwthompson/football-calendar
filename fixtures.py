@@ -25,6 +25,3 @@ def get_fixtures():
     status = 200
     headers = {'Content-Type': 'text/calendar'}
     return (response, status, headers)
-
-if __name__ == '__main__':
-    app.run()
