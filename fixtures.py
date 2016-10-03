@@ -1,15 +1,16 @@
+from os import environ
 from sys import stdin
 
 from flask import Flask
 from icalendar import Calendar
 import requests
 
-
-FIXTURES_URL = 'http://www.cambridge-united.co.uk/generic/download-fixtures-calendar.aspx?teamID=71'
+FIXTURES_URL = environ['FIXTURES_URL']
+HOME_LOCATION = environ['HOME_LOCATION']
 
 
 def is_home_game(fixture):
-    return fixture['location'] == 'Abbey Stadium'
+    return fixture['location'] == HOME_LOCATION
 
 
 app = Flask(__name__)
