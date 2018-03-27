@@ -10,7 +10,7 @@ HOME_LOCATION = environ['HOME_LOCATION']
 
 
 def is_home_game(fixture):
-    return fixture['location'] == HOME_LOCATION
+    return fixture.get('location') == HOME_LOCATION
 
 
 app = Flask(__name__)
